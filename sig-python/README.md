@@ -1,8 +1,8 @@
 # SIG Python
 
-Status: Draft
+Status: Active
 
-Chairs: To be named
+Chairs: [Gonzalo Vidal (@Gonza10V)](https://github.com/Gonza10V)
 
 Project: [Python](https://github.com/orgs/lab-lang/projects/3)
 

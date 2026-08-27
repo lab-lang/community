@@ -2,7 +2,7 @@
 
 Status: Draft
 
-Chairs: To be named
+Chairs: [Jackson Fairborn (@jdfdragon)](https://github.com/jdfdragon)
 
 Sponsoring SIGs:
 

@@ -2,7 +2,7 @@
 
 Status: Draft
 
-Chairs: To be named
+Chairs: [Mike Arpaia (@marpaia)](https://github.com/marpaia)
 
 Project: [Lab Language](https://github.com/orgs/lab-lang/projects/2)
 
