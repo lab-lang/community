@@ -25,7 +25,7 @@ Lab is a compiler for portable biological work. Scientists describe the biologic
 - [SIG Lab Language](sig-lab-language/)
 - [SIG Python](sig-python/)
 - [SIG Developer Tools](sig-developer-tools/)
-- [SIG Website & Docs](sig-website-docs/)
+- [SIG Docs](sig-docs/)
 - [SIG Robotics](sig-robotics/)
 - [SIG Release](sig-release/)
 

@@ -1,4 +1,4 @@
-# SIG Website & Docs
+# SIG Docs
 
 Status: Draft
 
