@@ -28,7 +28,13 @@ Lab is a compiler for portable biological work. Scientists describe the biologic
 - [SIG Robotics](sig-robotics/)
 - [SIG Release](sig-release/)
 
-SIGs are persistent and own technical scope. Each SIG has one or two chairs who organize its work and communication. WGs are temporary, have chairs and sponsoring SIGs, and close when their stated deliverables are complete.
+SIGs are persistent and own technical scope. Each SIG has one or two chairs who organize its work and communication.
+
+## Working Groups
+
+- [WG Experimental Validation](wg-experimental-validation/)
+
+WGs are temporary, have chairs and sponsoring SIGs, and close when their stated deliverables are complete.
 
 Milestones, issue backlogs, sequencing, and delivery status belong in GitHub trackers and source repositories. SIG charters should remain useful across many releases.
 

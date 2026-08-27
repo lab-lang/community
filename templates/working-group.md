@@ -10,6 +10,8 @@ Sponsoring SIGs:
 
 - SIG name and charter link
 
+Project: [WG Name](https://github.com/orgs/lab-lang/projects/NUMBER)
+
 ## Problem
 
 State the cross-SIG problem this WG exists to resolve.
@@ -26,7 +28,6 @@ State the cross-SIG problem this WG exists to resolve.
 
 ## Operation
 
-- Tracker:
 - Decision record:
 - Source repositories affected:
 

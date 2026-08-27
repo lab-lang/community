@@ -22,6 +22,10 @@ Each SIG directory begins with a README that serves as its charter and landing p
 
 ## Working Groups
 
-There are no active WGs. A new WG uses a top-level `wg-*` directory and starts from the [WG template](templates/working-group.md). Its charter names chairs, sponsoring SIGs, deliverables, a tracker, and closure conditions.
+| WG | Purpose | Sponsoring SIGs | Chairs | GitHub Project |
+| --- | --- | --- | --- | --- |
+| [Experimental Validation](wg-experimental-validation/) | Validate compiler capabilities and integrations with reproducible experimental evidence | Compiler, Release | To be named | [Experimental Validation](https://github.com/orgs/lab-lang/projects/8) |
+
+WG Experimental Validation remains a draft until its chairs are named. A new WG uses a top-level `wg-*` directory and starts from the [WG template](templates/working-group.md). Its charter names chairs, sponsoring SIGs, deliverables, a tracker, and closure conditions.
 
 WGs coordinate work but do not own code or permanent technical scope. Continuing responsibility remains with or returns to the sponsoring SIGs.
