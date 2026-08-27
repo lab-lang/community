@@ -20,14 +20,14 @@ Lab is a compiler for portable biological work. Scientists describe the biologic
 
 ## Special Interest Groups (SIGs)
 
-- [SIG Compiler](sig-compiler/)
-- [SIG Instruments](sig-instruments/)
-- [SIG Lab Language](sig-lab-language/)
-- [SIG Python](sig-python/)
-- [SIG Developer Tools](sig-developer-tools/)
-- [SIG Docs](sig-docs/)
-- [SIG Robotics](sig-robotics/)
-- [SIG Release](sig-release/)
+- [SIG Compiler](sig-compiler/): The core compiler infrastructure (e.g. Pliron, LAIR, etc)
+- [SIG Instruments](sig-instruments/): Support for laboratory robots and instruments (OpenTrons, Hamilton, Byonoy, Inheco, etc)
+- [SIG Lab Language](sig-lab-language/): The Lab Programming Language
+- [SIG Python](sig-python/): Python support within the Lab Compiler
+- [SIG Developer Tools](sig-developer-tools/): The lab CLI, Editor support (VS Code, Cursor), Language Server, etc
+- [SIG Docs](sig-docs/): Improving the Lab documentation, website, etc.
+- [SIG Robotics](sig-robotics/): Simulation and training infrastructure for increasingly robotic laboratories
+- [SIG Release](sig-release/): Building, packaging, and releasing the Lab Compiler
 
 SIGs are persistent and own technical scope. Each SIG has one or two chairs who organize its work and communication.
 
