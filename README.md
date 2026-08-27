@@ -21,6 +21,7 @@ Lab is a compiler for portable biological work. Scientists describe the biologic
 ## Special Interest Groups (SIGs)
 
 - [SIG Compiler](sig-compiler/)
+- [SIG Instruments](sig-instruments/)
 - [SIG Lab Language](sig-lab-language/)
 - [SIG Python](sig-python/)
 - [SIG Developer Tools](sig-developer-tools/)

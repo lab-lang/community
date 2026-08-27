@@ -14,7 +14,7 @@ Study how reviewed Lab artifacts can support simulation, facility modeling, robo
 
 **Owns:** simulation scenes, assets, physics adapters, robot tasks, training, evaluation, facility visualization, compute tooling, and robotics telemetry.
 
-**Does not own:** scientific workflow semantics, biological planning, instrument protocols, unreviewed hardware execution, or claims that simulation qualifies physical work.
+**Does not own:** scientific workflow semantics, biological planning, concrete instrument integrations, the reviewed instrument-execution path, or claims that simulation qualifies physical work.
 
 ## Strategy
 
@@ -44,3 +44,4 @@ Study how reviewed Lab artifacts can support simulation, facility modeling, robo
 
 - Source: [lab-lang/robotics](https://github.com/lab-lang/robotics)
 - Upstream artifacts: [lab-lang/lab](https://github.com/lab-lang/lab)
+- Adjacent ownership: [SIG Instruments](../sig-instruments/) owns concrete instrument integration and execution

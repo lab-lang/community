@@ -12,9 +12,9 @@ Turn portable scientific intent into explicit, reviewable artifacts for a partic
 
 ## Scope
 
-**Owns:** checked representations, lowering, method and resource planning, target validation, backends, run documents, and runtime interpretation. Instrument integrations live here provisionally.
+**Owns:** checked representations, target-independent lowering, method and resource planning, generic target and backend contracts, run-document semantics, and generic runtime interpretation.
 
-**Does not own:** frontend syntax, Python APIs, editor hosts, robot-policy training, or unreviewed changes to biological intent.
+**Does not own:** concrete instrument profiles and backends, vendor protocols and transports, live device and workcell control, frontend syntax, Python APIs, editor hosts, robot-policy training, or unreviewed changes to biological intent.
 
 ## Strategy
 
@@ -22,7 +22,7 @@ Turn portable scientific intent into explicit, reviewable artifacts for a partic
 - Specialize intent in visible stages: methods, inventory, resources, scheduling, and target operations.
 - Treat material identity, quantity, custody, location, and lineage as planning inputs.
 - Make the reviewed, versioned run document the boundary for physical execution.
-- Integrate laboratories and instruments through capability and artifact contracts, not frontend changes.
+- Define stable capability and artifact contracts; [SIG Instruments](../sig-instruments/) owns their concrete instrument implementations.
 - Record every consequential decision and any permitted nondeterminism.
 
 ## Success
@@ -41,4 +41,4 @@ Turn portable scientific intent into explicit, reviewable artifacts for a partic
 
 ## Repositories
 
-- Source: [lab-lang/lab](https://github.com/lab-lang/lab), including the compiler, runtime, targets, and instrument integrations
+- Source: [lab-lang/lab](https://github.com/lab-lang/lab), including the compiler, shared runtime semantics, target contracts, and run-document formats

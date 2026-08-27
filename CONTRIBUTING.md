@@ -28,10 +28,10 @@ This repository is not the place for quarterly plans, release checklists, issue 
 
 ## Implementation contributions
 
-- Compiler, language, Python, CLI, editor, runtime, and instrument work belongs in [lab-lang/lab](https://github.com/lab-lang/lab).
+- Compiler, language, Python, CLI, editor, and shared runtime work belongs in [lab-lang/lab](https://github.com/lab-lang/lab).
+- Instrument backends, drivers, and workcell execution are coordinated by [SIG Instruments](sig-instruments/) and belong in [lab-lang/lab](https://github.com/lab-lang/lab) or the relevant instrument repository.
 - Simulation, visualization, physics, training, and compute work belongs in [lab-lang/robotics](https://github.com/lab-lang/robotics).
 - Public website and documentation-rendering work belongs in [lab-lang/website](https://github.com/lab-lang/website).
-- Instrument protocol changes belong in the relevant repository in the [lab-lang organization](https://github.com/orgs/lab-lang/repositories).
 
 New contributors can start with the current [`good first issue` backlog](https://github.com/lab-lang/lab/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22). Each source repository defines its own validation commands; run the complete relevant gate before presenting a change as finished.
 

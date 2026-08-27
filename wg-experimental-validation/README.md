@@ -7,6 +7,7 @@ Chairs: To be named
 Sponsoring SIGs:
 
 - [SIG Compiler](../sig-compiler/)
+- [SIG Instruments](../sig-instruments/)
 - [SIG Release](../sig-release/)
 
 Project: [Experimental Validation](https://github.com/orgs/lab-lang/projects/8)

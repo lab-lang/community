@@ -6,7 +6,8 @@ Lab uses persistent Special Interest Groups and temporary Working Groups. Group 
 
 | SIG | Responsibility | Chairs | GitHub Project |
 | --- | --- | --- | --- |
-| [Compiler](sig-compiler/) | Planning, lowering, run documents, and execution | To be named | [Compiler](https://github.com/orgs/lab-lang/projects/1) |
+| [Compiler](sig-compiler/) | Planning, lowering, target contracts, and run documents | To be named | [Compiler](https://github.com/orgs/lab-lang/projects/1) |
+| [Instruments](sig-instruments/) | Instrument backends, device control, and workcell execution | To be named | [Instruments](https://github.com/orgs/lab-lang/projects/9) |
 | [Lab Language](sig-lab-language/) | Native syntax, semantics, and scientific packages | To be named | [Lab Language](https://github.com/orgs/lab-lang/projects/2) |
 | [Python](sig-python/) | Equal Python authoring through the shared compiler | To be named | [Python](https://github.com/orgs/lab-lang/projects/3) |
 | [Website & Docs](sig-website-docs/) | Public explanation, learning, and browser playground | To be named | [Website & Docs](https://github.com/orgs/lab-lang/projects/4) |
@@ -24,7 +25,7 @@ Each SIG directory begins with a README that serves as its charter and landing p
 
 | WG | Purpose | Sponsoring SIGs | Chairs | GitHub Project |
 | --- | --- | --- | --- | --- |
-| [Experimental Validation](wg-experimental-validation/) | Validate compiler capabilities and integrations with reproducible experimental evidence | Compiler, Release | To be named | [Experimental Validation](https://github.com/orgs/lab-lang/projects/8) |
+| [Experimental Validation](wg-experimental-validation/) | Validate compiler capabilities and integrations with reproducible experimental evidence | Compiler, Instruments, Release | To be named | [Experimental Validation](https://github.com/orgs/lab-lang/projects/8) |
 
 WG Experimental Validation remains a draft until its chairs are named. A new WG uses a top-level `wg-*` directory and starts from the [WG template](templates/working-group.md). Its charter names chairs, sponsoring SIGs, deliverables, a tracker, and closure conditions.
 
